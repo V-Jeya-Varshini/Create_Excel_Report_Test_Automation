@@ -43,7 +43,20 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "539e93d1-3a1d-41f3-adc4-532e1c657671",
+        "testCaseType": "TestCase",
+        "fileName": "Build_DT_TC.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "4680bdfa-0a3e-4174-a017-dd34a002c830",
+        "testCaseType": "TestCase",
+        "fileName": "Download_File.xaml"
+      }
+    ],
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
